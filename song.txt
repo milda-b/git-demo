@@ -7,3 +7,5 @@ Frorm the lines
 Shield by shield
 
 Creating text for feature branch
+
+Adding more text to commit changes to feature
